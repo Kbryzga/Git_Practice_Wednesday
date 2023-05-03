@@ -4,4 +4,6 @@ public class A {
 
     // line 2
 
+    // line 3
+
 }
